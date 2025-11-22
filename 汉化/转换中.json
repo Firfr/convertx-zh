@@ -1,0 +1,30 @@
+[
+  {
+    "原文": "\"No files dropped — likely a URL or unsupported source.\"",
+    "翻译": "\"未拖拽文件 — 可能是URL或不支持的来源。\""
+  },
+  {
+    "原文": "\"Handling dropped file:\"",
+    "翻译": "\"正在处理拖拽的文件：\""
+  },
+  {
+    "原文": ">Remove<",
+    "翻译": ">移除<"
+  },
+  {
+    "原文": "${target.dataset.target} using ",
+    "翻译": "转换成 ${target.dataset.target} 使用工具 "
+  },
+  {
+    "原文": "`Convert ",
+    "翻译": "`转换 "
+  },
+  {
+    "原文": "\"Uploading...\"",
+    "翻译": "\"上传中...\""
+  },
+  {
+    "原文": "`upload progress ",
+    "翻译": "`上传进度 "
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "原文": "\"Welcome to ConvertX!\"",
+    "翻译": "\"欢迎使用 ConvertX！\""
+  },
+  {
+    "原文": "\"Create your account\"",
+    "翻译": "\"创建您的账户\""
+  },
+  {
+    "原文": "\"Email\"",
+    "翻译": "\"邮箱\""
+  },
+  {
+    "原文": "\"Email already in use.\"",
+    "翻译": "\"邮箱已被使用。\""
+  },
+  {
+    "原文": "\"Password\"",
+    "翻译": "\"密码\""
+  },
+  {
+    "原文": "\"Current Password\"",
+    "翻译": "\"当前密码\""
+  },
+  {
+    "原文": "\"Password (leave blank for unchanged)\"",
+    "翻译": "\"密码（留空表示不更改）\""
+  },
+  {
+    "原文": "\"Register\"",
+    "翻译": "\"注册\""
+  },
+  {
+    "原文": "\"Create account\"",
+    "翻译": "\"创建账户\""
+  },
+  {
+    "原文": "\"Report any issues on\"",
+    "翻译": "\"报告任何问题请到\""
+  },
+  {
+    "原文": "\"Invalid credentials.\"",
+    "翻译": "\"凭据无效。\""
+  },
+  {
+    "原文": "\"ConvertX | Setup\"",
+    "翻译": "\"ConvertX | 设置\""
+  },
+  {
+    "原文": "\"ConvertX | Register\"",
+    "翻译": "\"ConvertX | 注册\""
+  },
+  {
+    "原文": "\"ConvertX | Login\"",
+    "翻译": "\"ConvertX | 登录\""
+  },
+  {
+    "原文": "\"ConvertX | Account\"",
+    "翻译": "\"ConvertX | 账户\""
+  },
+  {
+    "原文": "\"Login\"",
+    "翻译": "\"登录\""
+  },
+  {
+    "原文": "\"Unauthorized\"",
+    "翻译": "\"未授权\""
+  },
+  {
+    "原文": "\"Failed to create user.\"",
+    "翻译": "\"创建用户失败。\""
+  },
+  {
+    "原文": "\"No auth cookie, perhaps your browser is blocking cookies.\"",
+    "翻译": "\"没有认证 cookie，可能是您的浏览器阻止了 cookie。\""
+  },
+  {
+    "原文": "\"Update\"",
+    "翻译": "\"更新\""
+  }
+]

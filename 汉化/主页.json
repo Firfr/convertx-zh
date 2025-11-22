@@ -1,0 +1,34 @@
+[
+ {
+    "原文": "\"No auth cookie, perhaps your browser is blocking cookies.\"",
+    "翻译": "\"无认证Cookie，可能是您的浏览器阻止了Cookie。\""
+  },
+ {
+    "原文": "\"Cookies should be enabled to use this app.\"",
+    "翻译": "\"使用此应用程序需要启用Cookie。\""
+  },
+ {
+    "原文": "\"jobId set to:\"",
+    "翻译": "\"任务ID设置为\""
+  },
+ {
+    "原文": "\"Convert\"",
+    "翻译": "\"转换\""
+  },
+ {
+    "原文": "\"Choose a file\"",
+    "翻译": "\"选择文件\""
+  },
+ {
+    "原文": "\" or drag it here\"",
+    "翻译": "\" 或拖拽到此处\""
+  },
+ {
+    "原文": "\"Search for conversions\"",
+    "翻译": "\"搜索转换格式\""
+  },
+ {
+    "原文": "\"Convert to\"",
+    "翻译": "\"转换为\""
+  }
+]
