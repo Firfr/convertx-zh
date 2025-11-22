@@ -12,7 +12,7 @@
 
 ## 汉化&修改&镜像制作
 
-当前制作镜像版本：0.14.1
+当前制作镜像版本：0.15.1
 
 感谢原作者的开源。  
 原项目没有中文，我制作了中文docker镜像
@@ -37,9 +37,16 @@
 
 容器内部端口`3000`。
 
-```bash
-swr.cn-north-4.myhuaweicloud.com/firfe/convertx-zh:0.14.1
-```
+- 国内仓库
+  - AMD64镜像
+    ```bash
+    swr.cn-north-4.myhuaweicloud.com/firfe/convertx-zh:0.15.1
+    ```
+- DockerHub仓库
+  - AMD64镜像
+    ```bash
+    firfe/convertx-zh:0.15.1
+    ```
 
 ### docker run 命令部署
 
@@ -54,7 +61,7 @@ docker run -d \
 -e JWT_SECRET=c4illin_convertx \
 -e LANGUAGE=zh \
 -p 5148:3000 \
-swr.cn-north-4.myhuaweicloud.com/firfe/convertx-zh:0.14.1
+swr.cn-north-4.myhuaweicloud.com/firfe/convertx-zh:0.15.1
 ```
 在命令最后追加`-p 端口`自定义端口
 
@@ -66,7 +73,7 @@ name: convertx-zh
 services:
   convertx-zh:
     container_name: convertx-zh
-    image: swr.cn-north-4.myhuaweicloud.com/firfe/convertx-zh:0.14.1
+    image: swr.cn-north-4.myhuaweicloud.com/firfe/convertx-zh:0.15.1
     network_mode: bridge
     restart: always
     logging:
