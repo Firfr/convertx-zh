@@ -24,15 +24,19 @@
     "翻译": "\"操作\""
   },
   {
-    "原文": "children: file.status }",
+    "原文": "children: file.status \\}",
     "翻译": "children: file.status === 'Done' ? '完成' : file.status }"
   },
   {
-    "原文": "\"Job not found.\"",
+    "原文": "\"Job not found\\.\"",
     "翻译": "\"未找到任务。\""
   },
   {
     "原文": " Result\"",
     "翻译": " 结果\""
+  },
+  {
+    "原文": "\"Delete\"",
+    "翻译": "\"删除\""
   }
 ]

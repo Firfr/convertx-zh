@@ -24,15 +24,19 @@
     "翻译": "\"状态\""
   },
   {
-    "原文": "\"View\"",
-    "翻译": "\"查看\""
-  },
-  {
-    "原文": ": job.status }",
-    "翻译": ": job.status === 'completed' ? '完成' : job.status }"
+    "原文": "children: job.status \\}",
+    "翻译": "children: job.status === 'completed' ? '完成' : job.status }"
   },
   {
     "原文": "\"Detailed File Information:\"",
     "翻译": "\"详细文件信息\""
+  },
+  {
+    "原文": "\"Delete Selected ",
+    "翻译": "\"删除所选 "
+  },
+  {
+    "原文": "\"Actions\"",
+    "翻译": "\"操作\""
   }
 ]

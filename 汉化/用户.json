@@ -12,7 +12,7 @@
     "翻译": "\"邮箱\""
   },
   {
-    "原文": "\"Email already in use.\"",
+    "原文": "\"Email already in use\\.\"",
     "翻译": "\"邮箱已被使用。\""
   },
   {
@@ -24,7 +24,7 @@
     "翻译": "\"当前密码\""
   },
   {
-    "原文": "\"Password (leave blank for unchanged)\"",
+    "原文": "\"Password \\(leave blank for unchanged\\)\"",
     "翻译": "\"密码（留空表示不更改）\""
   },
   {
@@ -40,23 +40,23 @@
     "翻译": "\"报告任何问题请到\""
   },
   {
-    "原文": "\"Invalid credentials.\"",
+    "原文": "\"Invalid credentials\\.\"",
     "翻译": "\"凭据无效。\""
   },
   {
-    "原文": "\"ConvertX | Setup\"",
+    "原文": "\"ConvertX \\| Setup\"",
     "翻译": "\"ConvertX | 设置\""
   },
   {
-    "原文": "\"ConvertX | Register\"",
+    "原文": "\"ConvertX \\| Register\"",
     "翻译": "\"ConvertX | 注册\""
   },
   {
-    "原文": "\"ConvertX | Login\"",
+    "原文": "\"ConvertX \\| Login\"",
     "翻译": "\"ConvertX | 登录\""
   },
   {
-    "原文": "\"ConvertX | Account\"",
+    "原文": "\"ConvertX \\| Account\"",
     "翻译": "\"ConvertX | 账户\""
   },
   {
@@ -68,11 +68,11 @@
     "翻译": "\"未授权\""
   },
   {
-    "原文": "\"Failed to create user.\"",
+    "原文": "\"Failed to create user\\.\"",
     "翻译": "\"创建用户失败。\""
   },
   {
-    "原文": "\"No auth cookie, perhaps your browser is blocking cookies.\"",
+    "原文": "\"No auth cookie, perhaps your browser is blocking cookies\\.\"",
     "翻译": "\"没有认证 cookie，可能是您的浏览器阻止了 cookie。\""
   },
   {
